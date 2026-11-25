@@ -1,0 +1,30 @@
+$ sw_vers -productName
+macOS
+
+$ sw_vers -productVersion
+27.2.1
+
+$ whoami
+[redacted]
+
+$ df -h /System/Volumes/Data
+Size: 460Gi Used: 244Gi Available: 190Gi
+
+$ ps -ax -o pid=,comm= (selected rows)
+PID       PROCESS
+1         launchd
+688       Finder
+40617     TextEdit
+
+$ ps -ax -o pid= | wc -l
+     766
+
+$ pwd
+[redacted]/digital-detective-8489
+
+$ cd mission-03-operating-system
+$ pwd
+[redacted]/digital-detective-8489/mission-03-operating-system
+
+$ ls -l mission-02-terminal/terminal-practice/original.txt (owner bits only)
+rw-
