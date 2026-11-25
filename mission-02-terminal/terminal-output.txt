@@ -1,0 +1,62 @@
+$ pwd
+[redacted]/digital-detective-8489/mission-02-terminal
+
+$ cd ..
+$ pwd
+[redacted]/digital-detective-8489
+
+$ mkdir terminal-practice
+
+$ touch original.txt
+
+$ cp original.txt copy.txt
+
+$ mv copy.txt backup.txt
+
+$ cat original.txt
+[end of empty file]
+
+$ ls
+backup.txt
+original.txt
+
+$ ls -l
+total 0
+-rw-r--r--@ 1 [redacted] [redacted] 0 Nov 25 15:52 backup.txt
+-rw-r--r--@ 1 [redacted] [redacted] 0 Nov 25 15:52 original.txt
+
+$ cat original.txt
+First practice line.
+Second practice line.
+
+$ cp original.txt two-lines-copy.txt
+
+$ mv two-lines-copy.txt two-lines-backup.txt
+
+$ ls
+backup.txt
+original.txt
+two-lines-backup.txt
+
+$ ls -lah
+total 16
+drwxr-xr-x@ 6 [redacted] [redacted] 192B Nov 25 15:52 .
+drwxr-xr-x@ 5 [redacted] [redacted] 160B Nov 25 15:52 ..
+-rw-r--r--@ 1 [redacted] [redacted] 0B Nov 25 15:52 .practice-marker
+-rw-r--r--@ 1 [redacted] [redacted] 0B Nov 25 15:52 backup.txt
+-rw-r--r--@ 1 [redacted] [redacted] 43B Nov 25 15:52 original.txt
+-rw-r--r--@ 1 [redacted] [redacted] 43B Nov 25 15:52 two-lines-backup.txt
+
+$ ls -l | head -n 3
+total 16
+-rw-r--r--@ 1 [redacted] [redacted] 0 Nov 25 15:52 backup.txt
+-rw-r--r--@ 1 [redacted] [redacted] 43 Nov 25 15:52 original.txt
+
+$ brew --version
+Homebrew 7.0.12
+
+$ brew list --formula | wc -l
+      63
+
+$ brew list --cask | wc -l
+       5
