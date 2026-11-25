@@ -42,4 +42,4 @@ The authenticated GitHub CLI created the request, and its diff confirmed that on
 
 ## 8. Commit details
 
-`Complete Git and GitHub collaboration mission`. [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Complete Git and GitHub collaboration mission`](https://github.com/Illtrapx/digital-detective-8489/commit/25d911c005deedf4c5c37f3f232a77caf44ab5e2).

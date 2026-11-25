@@ -57,4 +57,4 @@ Not applicable.
 
 ## 8. Commit details
 
-`Document operating system and file management`. [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Document operating system and file management`](https://github.com/Illtrapx/digital-detective-8489/commit/4e48ac1713b174da127fc76c4541a1e16c7a106b).

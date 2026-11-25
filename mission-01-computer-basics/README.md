@@ -20,7 +20,7 @@ Used the shell and `cat` to write the Markdown file and confirm that it could be
 | --- | --- | --- |
 | Input | Keystrokes enter characters and a save command. | Keyboard |
 | Processing | The editor updates the document in memory and converts its text to bytes when saving. | CPU and RAM |
-| Output | The editor shows the updated text on screen as I type. | Display |
+| Output | The editor shows the updated text on the display. | Display |
 | Storage | The operating system writes the file bytes to the SSD so the document can be reopened later. | SSD |
 
 The editor can display an update while it is still held in RAM. Saving writes that update to the file.
@@ -35,7 +35,7 @@ The editor can display an update while it is still held in RAM. Saving writes th
 | SSD | Hardware | — | Keeps files after shutdown. |
 | Display | Hardware | — | Shows the editor and its output. |
 | macOS | Software | Operating system | Manages the Mac and provides services to applications. |
-| Safari | Software | Application | Opens and displays websites. |
+| Git | Software | Utility | Records and compares versions of project files. |
 | TextEdit | Software | Application | Creates and edits documents. |
 | Homebrew | Software | Utility | Manages packages and their dependencies. |
 
@@ -61,4 +61,4 @@ The three completed tables are included in this README.
 
 ## 8. Commit details
 
-`Complete computer basics and IPOS mission`. [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Complete computer basics and IPOS mission`](https://github.com/Illtrapx/digital-detective-8489/commit/95c25ff2c9c744482cf865a707ad32cde88e2a8a).

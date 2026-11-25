@@ -22,14 +22,14 @@ Created an empty file, copied and renamed the copy, and confirmed the original w
 | Move or rename | `mv copy.txt backup.txt` | Changes the copy's path. | The listing contained `backup.txt`. |
 | Display contents | `cat original.txt` | Sends the file's contents to the terminal. | Output was initially empty, then showed both lines. |
 
-`printf` supplied the practice text. `cmp` checked the final backup. `brew --version` displayed the installed version, and `brew list --formula` and `brew list --cask` inspected the inventory. The public evidence shows package counts using `wc -l`.
+`printf` supplied the practice text. `cmp` checked the final backup. `brew --version` displayed the installed version, and `brew list --formula` and `brew list --cask` inspected the inventory. The evidence shows package counts using `wc -l`. A follow-up check of the package names confirmed that Homebrew manages `git` and `python@3.14` on this Mac.
 
 ## 4. My understanding
 
 - `>` truncates an existing file before writing. `>>` appends text after the existing contents.
 - `cp` leaves a source and destination file. `mv` gives the moved file a new location or filename.
 - `pwd` tells me which directory relative paths start from. `ls` helps confirm what is present before I use a filename in another command.
-- In `ls -lah`, `-l` adds details, `-a` includes entries like `.practice-marker`, and `-h` uses readable units when sizes are large enough. Plain `ls` showed only the visible filenames.
+- In `ls -lah`, `-l` adds details, `-a` includes entries like `.practice-marker`, and `-h` adds readable size units. For example, the detailed listing shows `43B` for `original.txt`. Plain `ls` showed only the visible filenames.
 - The pipe in `ls -l | head -n 3` sends the listing to `head`. `head` displays its first three lines, including the total line here.
 - A package manager keeps track of installed packages and the other packages they need. It provides one interface to install, update, list and remove those packages.
 
@@ -47,4 +47,4 @@ Not applicable.
 
 ## 8. Commit details
 
-`Complete Terminal and file management mission`. [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Complete Terminal and file management mission`](https://github.com/Illtrapx/digital-detective-8489/commit/e82e5c469b3d2179b0b2537444550ae3c89e3700).

@@ -42,4 +42,4 @@ Not applicable.
 
 ## 8. Commit details
 
-`Compare compilers and interpreters`. [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Compare compilers and interpreters`](https://github.com/Illtrapx/digital-detective-8489/commit/f8873011ff5e361d9afe7ff6ed0d89781742f277).

@@ -33,4 +33,4 @@ The repository uses the GitHub account's handle and GitHub-provided noreply addr
 
 ## 8. Commit details
 
-`Set up Digital Detective mission structure`. Check the pushed record in the [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Set up Digital Detective mission structure`](https://github.com/Illtrapx/digital-detective-8489/commit/754c51a42bb8ff238276ae3ec938698e72d4da75).

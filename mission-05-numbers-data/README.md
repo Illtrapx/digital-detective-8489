@@ -75,4 +75,4 @@ Not applicable.
 
 ## 8. Commit details
 
-`Build number converter and practise data representation`. [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Build number converter and practise data representation`](https://github.com/Illtrapx/digital-detective-8489/commit/c89f805e43b1e07ec29772db9d3f73e93a066c94).

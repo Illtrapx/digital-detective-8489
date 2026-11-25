@@ -54,4 +54,4 @@ Used `http_code` as the variable name and reran the HTTPS and DNS checks.
 
 ## 8. Commit details
 
-`Explain networking concepts and website communication`. [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Explain networking concepts and website communication`](https://github.com/Illtrapx/digital-detective-8489/commit/458e5e7398508b33d719a944666f881873eb699b).

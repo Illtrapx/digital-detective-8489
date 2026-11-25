@@ -6,7 +6,7 @@ Check the full repository, its mission history, the working Python programs and 
 
 ## 2. Work completed
 
-Reviewed the folder structure, README navigation, mission work, selected evidence, Python programs and Git history. Added converter instructions and a learning summary to the root README. Clarified the actual Terminal tool used in Mission 1 in a separate correction commit.
+Reviewed the folder structure, README navigation, mission work, selected evidence, Python programs and Git history. Added converter instructions and a learning summary to the root README. Clarified the Terminal tool used in Mission 1 in a separate correction commit. The follow-up review matched all nine missions against the assignment PDF, reran the Python, file and networking checks, and linked each mission to its published checkpoint.
 
 | Mission | Review result |
 | --- | --- |
@@ -30,11 +30,11 @@ A useful project README should help a visitor find each activity and reproduce t
 
 ## 5. Difficulties faced
 
-The assignment refers to an instructor-provided Google Form. Submission is a separate step from publishing the repository.
+The assignment calls for the student's own final explanations. Codex drafted the current writeups, so the student still needs to verify and rewrite those explanations before submission.
 
 ## 6. How I resolved them
 
-The public URL is recorded below for the student to submit through the instructor's form.
+The public URL is recorded below. The student will submit it through the instructor's form after reviewing the writeups.
 
 ## 7. Evidence / files
 
@@ -42,4 +42,4 @@ The public URL is recorded below for the student to submit through the instructo
 
 ## 8. Commit details
 
-`Complete final report and verify GitHub publication`. [GitHub commit history](https://github.com/Illtrapx/digital-detective-8489/commits/main/).
+Pushed to GitHub on `main`. [`Complete final report and verify GitHub publication`](https://github.com/Illtrapx/digital-detective-8489/commit/3946d3b926048e68136807c640913bd9eed2c1fd).

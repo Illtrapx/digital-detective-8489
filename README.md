@@ -1,6 +1,6 @@
 # The Digital Detective
 
-The Digital Detective is a hands-on report about how a Mac receives input, runs programs, stores data and communicates with other computers. The nine missions were documented and committed separately. Codex assisted with the command runs and documentation.
+The Digital Detective is a hands-on report about how a Mac receives input, runs programs, stores data and communicates with other computers. The nine missions were documented and committed separately. Codex ran the commands on this Mac and drafted the mission notes.
 
 ## Topics explored
 
