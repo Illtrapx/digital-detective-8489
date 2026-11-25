@@ -1,6 +1,28 @@
 # The Digital Detective
 
-A Diwali independent learning assignment on how computers work. Each mission will be documented and committed separately.
+The Digital Detective is a hands-on report about how a Mac receives input, runs programs, stores data and communicates with other computers. The nine missions were documented and committed separately. Codex assisted with the command runs and documentation.
+
+## Topics explored
+
+- Computer hardware and software, input, processing, output and storage
+- Terminal file operations, macOS processes, paths and permissions
+- Program execution, number bases and text encoding
+- Git commits, GitHub pull requests, DNS and website communication
+
+## Run the number converter
+
+From the repository root, run:
+
+```sh
+cd mission-05-numbers-data
+python3 number_converter.py
+```
+
+Enter a decimal integer such as `42`. The program displays `0b101010` in binary and `0x2a` in hexadecimal.
+
+## Learning summary
+
+The exercises connect the screen and filesystem to the processes that produce and store data. The converter shows how one value can be represented in several bases. Git tracks the work in snapshots, and a pull request gives reviewers a place to inspect a proposed change.
 
 ## Mission index
 
