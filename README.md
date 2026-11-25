@@ -13,3 +13,9 @@ A Diwali independent learning assignment on how computers work. Each mission wil
 - [6. Git, GitHub, branches and pull requests](mission-06-git-github/README.md)
 - [7. Computer networks](mission-07-networking/README.md)
 - [8. Final review and submission](mission-08-final-report/README.md)
+
+## My Learning
+
+- An editor can show work held in memory before saving it to disk.
+- A shell pipe makes one command's output available to the next command.
+- A number can keep the same value when its digits are written in different bases.
