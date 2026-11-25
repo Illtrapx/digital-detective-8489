@@ -10,7 +10,7 @@ The example is editing and saving the assignment README. The tables trace the ac
 
 ## 3. Commands / tools used
 
-A Markdown editor or Terminal can edit the README. Finder and Terminal can confirm where the result is saved. Safari, Terminal and Homebrew are examples from the Mac software environment.
+Used the shell and `cat` to write the Markdown file and confirm that it could be read back. The software table gives examples from the Mac software environment.
 
 ## 4. My understanding
 
